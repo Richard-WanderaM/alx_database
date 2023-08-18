@@ -1,5 +1,7 @@
 # SQL - Introduction
 
+Structured Query language (SQL) is pronounced as “S-Q-L” or sometimes as “See-Quel”  which is the standard language for dealing with Relational Databases.
+
 ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/272/rtcwz.jpg)
 
 ## Resources
