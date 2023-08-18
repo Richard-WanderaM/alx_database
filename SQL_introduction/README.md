@@ -15,6 +15,7 @@
 * [MySQL 5.7 SQL Statement Syntax](https://intranet.alxswe.com/rltoken/rlDZrVw5HXdC9ltREhs-Iw)
 
 ## Learning Objectives
+
 > What’s a database
 > What’s a relational database
 > What does SQL stand for
